@@ -5,3 +5,6 @@ code{background:#eef2f7;padding:1px 4px;border-radius:4px}blockquote{border-left
 .nav{font-size:.92em;margin-bottom:14px}.card{display:block;background:#fff;border:1px solid #dde2ea;border-radius:10px;padding:14px 16px;margin:12px 0;text-decoration:none;color:inherit}
 .card:hover{border-color:#1a5fb4}.card .t{font-weight:600;color:#1a5fb4;font-size:1.08em}.card .d{color:#5a6577;font-size:.88em;margin-top:2px}.card .s{margin-top:6px;font-size:.93em}
 .foot{color:#7a8496;font-size:.82em;margin-top:40px;border-top:1px solid #dde2ea;padding-top:10px}
+img{display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;border-radius:10px;margin:10px 0 2px;background:#fff;border:1px solid #dde2ea}
+p:has(> img) + p > em:only-child{color:#5a6577;font-size:.85em}
+h4{margin:1.6em 0 .4em;font-size:1.12em}
